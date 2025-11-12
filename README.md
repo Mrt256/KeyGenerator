@@ -1,5 +1,5 @@
 # KeyGenerator 
-
+**Developed by:** Matheus Henrique Engel Stelzner  
 
 ## OVERVIEW
 
